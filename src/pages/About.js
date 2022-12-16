@@ -5,7 +5,7 @@ const About = ()=>{
     return (
         <section className="about-section">
             <h4>About Page</h4>
-            <p>This project was developed using the cocktailDB.This project was developed using the cocktailDB.This project was developed using the cocktailDB.This project was developed using the cocktailDB</p>
+            <p>This project was developed using TheCocktailDb API. Know more about your favorite cocktail and enjoy. Cheers!!</p>
         </section>
     )
 }
