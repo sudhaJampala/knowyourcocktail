@@ -335,8 +335,8 @@
 }
 
 .details-text li{
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 1.5rem 1fr ;
   align-items: center;
   margin-bottom: 1rem;
 }
